@@ -130,7 +130,7 @@ else if (symbolSpecial) {
   userChoice = special;
   console.log(userChoice);
 }
-
+// empty varibale for the password length
 var passwordBlank = [];
 
 // loop for the random password selection 

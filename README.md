@@ -18,3 +18,9 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is written to the page.
+
+Deployed URL 
+https://andylin03.github.io/module_one/
+
+Repository Link 
+https://github.com/andylin03/module_three

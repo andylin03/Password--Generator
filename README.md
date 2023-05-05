@@ -20,7 +20,7 @@ WHEN the password is generated
 THEN the password is written to the page.
 
 Deployed URL 
-https://andylin03.github.io/module_one/
+https://andylin03.github.io/module_three/
 
 Repository Link 
 https://github.com/andylin03/module_three
